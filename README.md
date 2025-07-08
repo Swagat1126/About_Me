@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swagat
 - 👀 I’m interested in Creating Websites
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning Full Stack  Developer 
 - 💞️ I’m looking to becone a Sucessfull Developer
 - 📫 How to reach me => (swagatkoreti5@gmail.com)
 - 😄 Pronouns: ...
